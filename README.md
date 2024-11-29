@@ -1,5 +1,4 @@
 # Food-Beverage-Dashboard
-Food-Beverage-Analysis-Dashboard
 Food And Beverage Management Project Title: Enhancing Food and Beverage Experience in This Project . Project Overview: The Food and Beverage Management project aims to elevate the culinary experience with Analysis , focusing on quality, sustainability, and customer satisfaction. This initiative seeks to create a diverse and innovative menu that caters to various dietary preferences while promoting local ingredients and sustainable practices.
 
 Objectives: Menu Development: Curate a seasonal menu that highlights local produce and incorporates international cuisines, ensuring a balance between traditional and contemporary dishes.
